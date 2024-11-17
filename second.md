@@ -1,4 +1,4 @@
-# Welcome to Git, Muggle.
+# Welcome to Git, Mufasa.
 
 This is an introduction to Git. Here, you will learn the basics of version control and how to use Git for your projects.
 
